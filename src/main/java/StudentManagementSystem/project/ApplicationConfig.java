@@ -26,8 +26,5 @@ public class ApplicationConfig {
 				registry.viewResolver(new InternalResourceViewResolver("/", ".html"));
 			}
 
-		};
-	}
-
-
+		};}
 }
